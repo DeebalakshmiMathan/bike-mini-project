@@ -14,5 +14,5 @@ I have made this project with the help of HTML, CSS and Vanilla JS. I have used 
  Technical Things :
 
  i)  Navbar
- ii) Buttons
+ ii) onclick
 iii)  Detailed Vanilla JS
